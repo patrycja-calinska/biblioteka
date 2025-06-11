@@ -1,0 +1,51 @@
+﻿# Pliki tymczasowe Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Foldery buildów
+bin/
+obj/
+TestResults/
+Debug/
+Release/
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Pliki logów, tymczasowe
+*.log
+*.tmp
+*.bak
+*.old
+*.cache
+
+# Bazy lokalne
+*.mdf
+*.ldf
+*.dbmdl
+
+# Pliki konfiguracji lokalnej
+*.local.config
+*.vscode/
+.env
+
+# Pliki archiwalne
+*.7z
+*.zip
+*.rar
+
+# Inne
+_ReSharper.*
+*.resharper
+*.DotSettings.user
+.idea/
+*.swp
+*.DS_Store
+Thumbs.db

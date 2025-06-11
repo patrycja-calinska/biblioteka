@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|c:\\users\\patrycja\\onedrive\\pulpit\\biblioteka\\biblioteka_testowanie\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformlistauprawnien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformlistauprawnien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformlistauprawnien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformlistauprawnien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\formzmienhaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\formzmienhaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\formzmienhaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\formzmienhaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\formustawnowehaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\formustawnowehaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\formustawnowehaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\formustawnowehaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\formodzyskajhaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\formodzyskajhaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\formodzyskajhaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\formodzyskajhaslo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformzapomnieniuzytkownicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformzapomnieniuzytkownicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformzapomnieniuzytkownicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformzapomnieniuzytkownicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformsprawdzanieuprawnien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformsprawdzanieuprawnien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformsprawdzanieuprawnien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformsprawdzanieuprawnien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformprzegl\u0105du\u017Cytkownik\u00F3wodanymuprawnieniu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformprzegl\u0105du\u017Cytkownik\u00F3wodanymuprawnieniu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformprzegl\u0105du\u017Cytkownik\u00F3wodanymuprawnieniu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformprzegl\u0105du\u017Cytkownik\u00F3wodanymuprawnieniu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformpodgladdanych.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformpodgladdanych.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformpodgladdanych.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformpodgladdanych.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformpanelglowny.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformpanelglowny.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformpanelglowny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformpanelglowny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformdodajuzytkownika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformdodajuzytkownika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformdodajuzytkownika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformdodajuzytkownika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformaktywniuzytkownicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformaktywniuzytkownicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\biblioteka_testowanie\\adminformaktywniuzytkownicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA04785-78EA-4DEF-AC99-856904CBD858}|BIBLIOTEKA_TESTOWANIE\\BIBLIOTEKA_TESTOWANIE.csproj|solutionrelative:biblioteka_testowanie\\adminformaktywniuzytkownicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 337,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 336,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\.gitignore",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\.gitignore",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\.gitignore",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-11T11:44:03.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormLogin.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormLogin.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\FormLogin.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAmwEkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:36:59.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormUstawNoweHaslo.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormUstawNoweHaslo.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\FormUstawNoweHaslo.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\FormUstawNoweHaslo.cs [Projekt]",
+              "RelativeToolTip": "..\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\FormUstawNoweHaslo.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:38:40.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminFormListaUprawnien.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormListaUprawnien.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormListaUprawnien.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormListaUprawnien.cs [Projekt]",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\AdminFormListaUprawnien.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:35:23.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminFormListaUprawnien.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormListaUprawnien.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormListaUprawnien.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormListaUprawnien.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\AdminFormListaUprawnien.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA6wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:35:24.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormUstawNoweHaslo.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormUstawNoweHaslo.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\FormUstawNoweHaslo.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormUstawNoweHaslo.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\FormUstawNoweHaslo.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:38:40.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormZmienHaslo.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormZmienHaslo.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\FormZmienHaslo.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\FormZmienHaslo.cs [Projekt]",
+              "RelativeToolTip": "..\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\FormZmienHaslo.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:38:47.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormZmienHaslo.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormZmienHaslo.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\FormZmienHaslo.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormZmienHaslo.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\FormZmienHaslo.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvw8AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:38:49.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormOdzyskajHaslo.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormOdzyskajHaslo.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\FormOdzyskajHaslo.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormOdzyskajHaslo.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\FormOdzyskajHaslo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:37:25.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormOdzyskajHaslo.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormOdzyskajHaslo.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\FormOdzyskajHaslo.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\FormOdzyskajHaslo.cs [Projekt]",
+              "RelativeToolTip": "..\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\FormOdzyskajHaslo.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:37:24.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLogin.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\FormLogin.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\FormLogin.cs [Projekt]",
+              "RelativeToolTip": "..\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\FormLogin.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:36:58.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\App.config",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\App.config",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\App.config",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-10T21:36:49.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminFormZapomnieniUzytkownicy.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormZapomnieniUzytkownicy.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormZapomnieniUzytkownicy.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormZapomnieniUzytkownicy.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\AdminFormZapomnieniUzytkownicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:36:38.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminFormZapomnieniUzytkownicy.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormZapomnieniUzytkownicy.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormZapomnieniUzytkownicy.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormZapomnieniUzytkownicy.cs [Projekt]",
+              "RelativeToolTip": "..\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormZapomnieniUzytkownicy.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:36:37.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminFormSprawdzanieUprawnien.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormSprawdzanieUprawnien.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormSprawdzanieUprawnien.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormSprawdzanieUprawnien.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\AdminFormSprawdzanieUprawnien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:36:18.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminFormSprawdzanieUprawnien.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormSprawdzanieUprawnien.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormSprawdzanieUprawnien.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormSprawdzanieUprawnien.cs [Projekt]",
+              "RelativeToolTip": "..\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormSprawdzanieUprawnien.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:36:17.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminFormPrzegl\u0105dU\u017Cytkownik\u00F3wODanymUprawnieniu.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormPrzegl\u0105dU\u017Cytkownik\u00F3wODanymUprawnieniu.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormPrzegl\u0105dU\u017Cytkownik\u00F3wODanymUprawnieniu.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormPrzegl\u0105dU\u017Cytkownik\u00F3wODanymUprawnieniu.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\AdminFormPrzegl\u0105dU\u017Cytkownik\u00F3wODanymUprawnieniu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:36:06.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminFormPrzegl\u0105dU\u017Cytkownik\u00F3wODanymUprawnieniu.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormPrzegl\u0105dU\u017Cytkownik\u00F3wODanymUprawnieniu.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormPrzegl\u0105dU\u017Cytkownik\u00F3wODanymUprawnieniu.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormPrzegl\u0105dU\u017Cytkownik\u00F3wODanymUprawnieniu.cs [Projekt]",
+              "RelativeToolTip": "..\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormPrzegl\u0105dU\u017Cytkownik\u00F3wODanymUprawnieniu.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:36:05.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminFormPodgladDanych.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormPodgladDanych.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormPodgladDanych.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormPodgladDanych.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\AdminFormPodgladDanych.cs",
+              "ViewState": "AQIAABwDAAAAAAAAAAAAADUDAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:35:47.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminFormPodgladDanych.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormPodgladDanych.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormPodgladDanych.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormPodgladDanych.cs [Projekt]",
+              "RelativeToolTip": "..\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormPodgladDanych.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:35:46.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminFormPanelGlowny.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormPanelGlowny.Designer.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormPanelGlowny.Designer.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormPanelGlowny.Designer.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\AdminFormPanelGlowny.Designer.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAawOQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:35:43.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminFormPanelGlowny.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormPanelGlowny.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormPanelGlowny.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormPanelGlowny.cs [Projekt]",
+              "RelativeToolTip": "..\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormPanelGlowny.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:35:40.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminFormDodajUzytkownika.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormDodajUzytkownika.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormDodajUzytkownika.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormDodajUzytkownika.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\AdminFormDodajUzytkownika.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:34:59.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminFormDodajUzytkownika.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormDodajUzytkownika.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormDodajUzytkownika.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormDodajUzytkownika.cs [Projekt]",
+              "RelativeToolTip": "..\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormDodajUzytkownika.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:34:58.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminFormAktywniUzytkownicy.cs",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormAktywniUzytkownicy.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormAktywniUzytkownicy.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormAktywniUzytkownicy.cs",
+              "RelativeToolTip": "BIBLIOTEKA_TESTOWANIE\\AdminFormAktywniUzytkownicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:33:49.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminFormAktywniUzytkownicy.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\Biblioteka\\BIBLIOTEKA_TESTOWANIE\\AdminFormAktywniUzytkownicy.cs",
+              "RelativeDocumentMoniker": "BIBLIOTEKA_TESTOWANIE\\AdminFormAktywniUzytkownicy.cs",
+              "ToolTip": "C:\\Users\\Patrycja\\OneDrive\\Pulpit\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormAktywniUzytkownicy.cs [Projekt]",
+              "RelativeToolTip": "..\\04.06_uaktualnione\\BIBLIOTEKA_TESTOWANIE\\AdminFormAktywniUzytkownicy.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:33:47.698Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 48,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 30,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
