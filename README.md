@@ -46,9 +46,10 @@ System będzie rozwijany o dodatkowe funkcjonalności związane z:
 
 ---
 
-## 🗂 Struktura repozytorium
-📁 BIBLIOTEKA_TESTOWANIE/ → główna aplikacja WinForms
-📁 Dokumentacja/ → analiza systemu, user storeis, use case, diagram use case, WBS
-📁 BazaDanych/ → skrypt SQL tworzący bazę danych
-📄 BIBLIOTEKA_TESTOWANIE.sln → plik rozwiązania Visual Studio
+## 📁 Struktura repozytorium
+
+- 📁 `BIBLIOTEKA_TESTOWANIE/` – główna aplikacja WinForms  
+- 📁 `Dokumentacja/` – analiza systemu, user stories, use case, diagramy, WBS  
+- 📁 `BazaDanych/` – skrypt SQL tworzący bazę danych  
+- 📄 `BIBLIOTEKA_TESTOWANIE.sln` – plik rozwiązania Visual Studio
 
